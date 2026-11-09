@@ -1,0 +1,12 @@
+# Dataset files are too large for GitHub. See README.md for how to get them.
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
